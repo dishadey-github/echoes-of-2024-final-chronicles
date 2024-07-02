@@ -24,7 +24,7 @@ TaxAmount: Tax amount for the order.
 
 ### Data Processing
 #### Data Loading:
-The dataset was loaded using pandas, a powerful data manipulation library in Python. The CSV file contains columns like SalesOrderNumber, SalesOrderLine, OrderDate, Year, Month, FirstName, LastName, EmailAddress, Item, Quantity, UnitPrice, and TaxAmount.
+The dataset was loaded in the Power Query Editor. The Excel file contains columns like SalesOrderNumber, SalesOrderLine, OrderDate, Year, Month, FirstName, LastName, EmailAddress, Item, Quantity, UnitPrice, and TaxAmount.
 
 #### Data Cleaning:
 Checked for missing values and handled any inconsistencies.
