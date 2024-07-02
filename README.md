@@ -7,7 +7,7 @@
 This project analyzes the sales, profit, and tax data for Roads & Co. using the dataset provided. The dashboard visualizes key performance indicators (KPIs) and trends to offer insights into the company's financial performance in 2024.
 
 #### Dataset
-The dataset includes sales order details with columns:\
+The dataset includes sales order details with columns:
 
 SalesOrderNumber: Unique identifier for each sales order.\
 SalesOrderLine: Line number for each item in the sales order.\
