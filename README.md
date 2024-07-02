@@ -147,7 +147,7 @@ Insights: The Racing Socks, M, with sales of $1,483.35, is the least performer, 
 The dashboard includes filters for:
 - Item: Allows the user to filter data by specific products.
 - Month: Enables viewing data for specific months.
-- 
+
 ### Business Analytics Insights
 #### Sales Trends:
 Sales show a steady increase throughout the year, peaking in the last two months.
@@ -163,9 +163,33 @@ Customer email data can be used for targeted marketing campaigns to boost sales 
 
 #### Profit Analysis:
 High total profit relative to total sales indicates effective cost management and high-profit margins.
-Tax Contributions:
 
 #### Tax Contributions:
 Detailed tax amounts provide clarity on tax contributions per order, aiding in tax compliance and reporting.
 
-Detailed tax amounts per order provide insights into the tax impact on overall revenue.
+## Echoes of 2024 - Financial Chronicles
+Filter 1
+- Item - Road-250 Black, 58
+- Month - Applicable for all the months
+
+![Road-250 Black, 58](https://github.com/dishadey-github/echoes-of-2024-final-chronicles/assets/60807918/8336e811-76b8-4a5e-ad45-2cbd6863c63e)
+
+Filter 2
+- Item - Hitch Rack-4-Bike
+- Month - Applicable for all the months
+
+![Hitch Rack-4-Bike](https://github.com/dishadey-github/echoes-of-2024-final-chronicles/assets/60807918/d299b438-7ddf-4c28-a98c-b3b666499806)
+
+Filter 3
+- Item - Touring-1000 Blue, 50
+- Month - Applicable for all the months
+
+![Touring-1000 Blue, 50](https://github.com/dishadey-github/echoes-of-2024-final-chronicles/assets/60807918/0fa7558e-3d5d-42aa-af08-e91ad8e1d929)
+
+Filter 4
+- Item - Road-650 Black, 52
+- Month - Applicable for all the months
+
+![Road-650 Black, 52](https://github.com/dishadey-github/echoes-of-2024-final-chronicles/assets/60807918/828f91ca-8760-4f56-bb79-a36b1b1e2d02)
+
+
