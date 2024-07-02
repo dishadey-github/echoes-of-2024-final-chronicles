@@ -9,17 +9,17 @@ This project analyzes the sales, profit, and tax data for Roads & Co. using the 
 #### Dataset
 The dataset includes sales order details with columns:\
 
-SalesOrderNumber: Unique identifier for each sales order.
-SalesOrderLine: Line number for each item in the sales order.
-OrderDate: Date of the order.
-Year: Year of the order.
-Month: Month of the order.
-FirstName: Customer's first name.
+SalesOrderNumber: Unique identifier for each sales order.\
+SalesOrderLine: Line number for each item in the sales order.\
+OrderDate: Date of the order.\
+Year: Year of the order.\
+Month: Month of the order.\
+FirstName: Customer's first name.\
 LastName: Customer's last name.
-EmailAddress: Customer's email address.
-Item: Description of the item sold.
-Quantity: Quantity of the item sold.
-UnitPrice: Price per unit of the item.
+EmailAddress: Customer's email address.\
+Item: Description of the item sold.\
+Quantity: Quantity of the item sold.\
+UnitPrice: Price per unit of the item.\
 TaxAmount: Tax amount for the order.
 
 ### Data Processing
