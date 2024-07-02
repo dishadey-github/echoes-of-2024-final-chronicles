@@ -167,7 +167,7 @@ High total profit relative to total sales indicates effective cost management an
 #### Tax Contributions:
 Detailed tax amounts provide clarity on tax contributions per order, aiding in tax compliance and reporting.
 
-## Echoes of 2024 - Financial Chronicles
+## Echoes of 2024 - Financial Chronicles (with filters)
 Filter 1
 - Item - Road-250 Black, 58
 - Month - Applicable for all the months
