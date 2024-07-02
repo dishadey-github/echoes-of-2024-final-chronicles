@@ -142,6 +142,7 @@ Identification: The product with the minimum total sales value.
 Visualization: A bar chart shows the least sold products, highlighting their total sales amounts.
 Insights: The Racing Socks, M, with sales of $1,483.35, is the least performer, indicating low customer interest or market penetration.
 
+![image](https://github.com/dishadey-github/echoes-of-2024-final-chronicles/assets/60807918/1c1dd82d-a3f8-43a8-adfc-5649ae976b6f)
 
 #### Filters
 The dashboard includes filters for:
