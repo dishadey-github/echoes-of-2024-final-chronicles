@@ -98,7 +98,6 @@ Aggregation: Sum of the Quantity column.
 Visualization: A summary card on the dashboard shows the total quantity ordered.
 Insights: The total quantity of 28.78K items provides insight into sales volume and product turnover.
 
-
 ![image](https://github.com/dishadey-github/echoes-of-2024-final-chronicles/assets/60807918/7eb8aa9f-cbae-4fdd-be90-24d9540a898e)
 
 #### Sales by Month
